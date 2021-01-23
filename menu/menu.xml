@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Aplicación">
+        <menu>
+            <item android:id="@+id/aboutOf"
+                android:icon="@drawable/ic_about_of"
+                android:title="Acerca de...">
+            </item>
+            <item android:id="@+id/Share"
+                android:icon="@drawable/ic_share"
+                android:title="Díselo a tus amigos">
+            </item>
+        </menu>
+    </item>
+    <item android:title="Ayuda y preguntas frecuentes">
+        <menu>
+            <item android:id="@+id/Comments"
+                android:icon="@drawable/ic_comments"
+                android:title="Envíanos tus comentarios">
+            </item>
+        </menu>
+    </item>
+    <item android:title="Salir">
+        <menu>
+            <item android:id="@+id/Exit"
+                android:icon="@drawable/ic_exit"
+                android:title="Cerrar sesión">
+            </item>
+        </menu>
+    </item>
+</menu>
