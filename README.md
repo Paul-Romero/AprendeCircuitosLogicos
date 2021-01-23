@@ -1,2 +1,2 @@
-# AprendeCircuitosLogicos
+# LearnLogicCircuits
 # AprendeCircuitosLogicos
